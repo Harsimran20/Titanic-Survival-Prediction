@@ -135,8 +135,3 @@ Contributions are welcome.
 5. Open a Pull Request.
 
 ---
-
-
-**Your Name**
-
-⭐ If you found this project useful, don't forget to star the repository.
